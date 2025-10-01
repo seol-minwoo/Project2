@@ -1,3 +1,4 @@
 “2025 Fall Semester Open-Source SW Programming Project 02”
 설민우
 20221053
+“Project 02 completed”
